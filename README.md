@@ -16,7 +16,8 @@ For more information about me please visit [my website](https://arminvarshokar.c
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
 |:---:|:---:|:---:|
 
-
+### Motto 📝
+*"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies"* - .C.A.R. Hoare
 
 
 
