@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Armin. I am a developer 👨🏻‍💻 from Toronto, Canada 🇨🇦
+
+I work at [Finneo](https://finneotech.com/) as a Product Manager / Software Developer. 
+
+### Get In Touch 📞
+For more information about me please visit [my website](https://arminvarshokar.com).
 
 <!--
 **arminv/arminv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
