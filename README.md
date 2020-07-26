@@ -1,3 +1,5 @@
+![Farmers Market Finder Demo](https://media1.tenor.com/images/c9cc4b5e02fda35172506eab265f4451/tenor.gif?itemid=15479445)
+
 ## Hi there 👋
 
 My name is Armin. I am a developer 👨🏻‍💻 from Toronto, Canada 🇨🇦
