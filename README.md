@@ -12,6 +12,14 @@ I work at [Finneo](https://finneotech.com/) as a Product Manager / Software Deve
 ### Get In Touch 📞
 For more information about me please visit [my website](https://arminvarshokar.com).
 
+### Programming Languages 💻
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
+|:---:|:---:|:---:|
+
+
+
+
+
 <!--
 **arminv/arminv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
