@@ -18,8 +18,11 @@ For more information about me please visit [my website](https://arminvarshokar.c
 
 
 ### Tools / Frameworks 🛠
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60>|<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=60>|<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width=60> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=60> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg" width=60> | <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> | <img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60>|<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=60>|<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width=60> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|
+
+|<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=60> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg" width=60> | <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> | <img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width=60> |
+|:---:|:---:|:---:|:---:|
 
 ### Motto 📝
 *"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies"* - .C.A.R. Hoare
