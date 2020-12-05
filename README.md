@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-My name is Armin. I am a Software Developer 👨🏻‍💻 from Toronto, Canada 🇨🇦
+I am a Software Developer 👨🏻‍💻 from Toronto, Canada 🇨🇦
 
 I work at [Finneo](https://finneotech.com/) as a Product Manager / Software Developer. 
 
