@@ -7,7 +7,7 @@
 
 I am a Software Developer 👨🏻‍💻  from Toronto, Canada 🇨🇦
 
-I work at [Finneo](https://finneotech.com/) as a Product Manager / Software Developer. 
+I work at [Sensei Labs](https://www.senseilabs.com/) as a Frontend Engineer. 
 
 ### Get In Touch 📞
 For more information about me please visit [my website](https://arminvarshokar.com).
