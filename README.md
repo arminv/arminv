@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I am a Software Developer 👨🏻‍💻  from Toronto, Canada 🇨🇦
+I am a Software Engineer 👨🏻‍💻  from Toronto, Canada 🇨🇦
 
 I work at [Sensei Labs](https://www.senseilabs.com/) as a Frontend Engineer. 
 
