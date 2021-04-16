@@ -7,7 +7,7 @@
 
 I am a Software Engineer 👨🏻‍💻  from Toronto, Canada 🇨🇦
 
-I work at [Sensei Labs](https://www.senseilabs.com/) as a Frontend Engineer. We help the world's top professional services organizations deliver transformations, procurement, and M&A transactions.
+I work at [Sensei Labs](https://www.senseilabs.com/) where we help the world's top professional services organizations deliver transformations, procurement, and M&A transactions.
 
 ### Get In Touch 📞
 For more information about me please visit [my website](https://arminvarshokar.com).
