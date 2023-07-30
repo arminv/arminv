@@ -11,7 +11,7 @@ I am a Software Engineer 👨🏻‍💻  from Toronto, Canada 🇨🇦
 For more information about me please visit [my website](https://arminvarshokar.com).
 
 ### Programming Languages 💻
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://hangtenseo.com/wp-content/uploads/2019/10/Python-Logo.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://img.icons8.com/color/96/000000/python.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
 |:---:|:---:|:---:|
 
 
@@ -19,7 +19,7 @@ For more information about me please visit [my website](https://arminvarshokar.c
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60>|<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=60>|<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=60> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=60> | <img src="https://lit.dev/images/logo.svg" width=60>
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width=60> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg" width=60> | <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" width=60> | <img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=60>
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width=60> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg" width=60> | <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" width=60> | <img src="https://img.icons8.com/color/2x/sass.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=60>
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Motto 📝
