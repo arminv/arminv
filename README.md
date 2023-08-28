@@ -1,6 +1,6 @@
 <!-- ![Farmers Market Finder Demo](https://media1.tenor.com/images/c9cc4b5e02fda35172506eab265f4451/tenor.gif?itemid=15479445) -->
 
-![gifprofile](https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47uu1alwnjtbprwgvksxb1khjhuqewy09qmocfpxzt&rid=giphy.gif)
+<!-- ![gifprofile](https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47uu1alwnjtbprwgvksxb1khjhuqewy09qmocfpxzt&rid=giphy.gif) -->
 
 
 ## Hi there 👋
