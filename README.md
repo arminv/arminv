@@ -2,20 +2,20 @@
 
 <!-- ![gifprofile](https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47uu1alwnjtbprwgvksxb1khjhuqewy09qmocfpxzt&rid=giphy.gif) -->
 
-## Hi there 👋
+## Hi 👋
 
-I am Armin, a Software Engineer from Toronto, Canada. 🇨🇦
+I'm Armin, a Software Engineer from Toronto, Canada. 🇨🇦
 
 ### 📞 Get In Touch
 
 For more information about me please visit [my website](https://arminvarshokar.com).
 
-### 💻 Programming Languages
+### Programming Languages
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width=60> | <img src="https://img.icons8.com/color/96/000000/python.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 
-### 🛠 Tools / Frameworks
+### Tools / Frameworks
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=60> | <img src="https://lit.dev/images/logo.svg" width=60> | <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> |
 |:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|:---------------------------------------------------------------------------:|
