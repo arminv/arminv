@@ -30,7 +30,7 @@ For more information about me please visit [my website](https://arminvarshokar.c
 
 ### Testing
 
-| <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width=60 /> | <img src="https://testing-library.com/img/logo-large.png" width=60 /> | <img src="https://chaijs.com/img/chai-logo.png" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfguoOl1V9f5MOmo298QW-GcSKWHY44HMpsg&s" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7W3WPbtyDH5jmGOFGl9eJoup0ecbZFN2Tw&s" width=60 /> | <img src="https://sinonjs.org/assets/images/logo.png" width=60 /> |
+| <img src="https://playwright.dev/img/playwright-logo.svg" width=60 /> | <img src="https://testing-library.com/img/logo-large.png" width=60 /> | <img src="https://chaijs.com/img/chai-logo.png" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfguoOl1V9f5MOmo298QW-GcSKWHY44HMpsg&s" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7W3WPbtyDH5jmGOFGl9eJoup0ecbZFN2Tw&s" width=60 /> | <img src="https://sinonjs.org/assets/images/logo.png" width=60 /> |
 |:------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
 
 ### Cloud
