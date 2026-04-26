@@ -10,39 +10,6 @@ I'm Armin, a Software Engineer from Toronto, Canada. 🇨🇦
 
 For more information about me please visit [my website](https://arminvarshokar.com).
 
-### Programming Languages
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width=60> | <img src="https://img.icons8.com/color/96/000000/python.png" width=60> | <img src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width=60> |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-
-### Tools / Frameworks
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=60> | <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=60> | <img src="https://lit.dev/images/logo.svg" width=60> |
-|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|
-
-| <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width=60> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVcWG8DzgJQ5CS9N2Wcqwy8-l5WxPabH3OxQ&s" width=60 /> | <img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" width=60> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" width=60 /> | <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width=60 /> | <img src="https://img.icons8.com/color/2x/sass.png" width=60> |
-|:---:|:---------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-
-### Databases
-
-| <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width=60 /> | <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=60> |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-
-### Testing
-
-| <img src="https://playwright.dev/img/playwright-logo.svg" width=60 /> | <img src="https://testing-library.com/img/logo-large.png" width=60 /> | <img src="https://chaijs.com/img/chai-logo.png" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfguoOl1V9f5MOmo298QW-GcSKWHY44HMpsg&s" width=60 /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7W3WPbtyDH5jmGOFGl9eJoup0ecbZFN2Tw&s" width=60 /> | <img src="https://sinonjs.org/assets/images/logo.png" width=60 /> |
-|:------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
-
-### Cloud
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width=60 /> | <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width=60 /> |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-
-### Design
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width=60 /> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" width=60 /> |
-|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-
 ### 📝 Motto
 
 *"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no
